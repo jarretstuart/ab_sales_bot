@@ -1,0 +1,5 @@
+azure-functions==1.11.3
+botbuilder-core==4.16.2
+botbuilder-schema==4.16.2
+pandas==1.5.3
+aiohttp==3.11.9
